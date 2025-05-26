@@ -109,8 +109,6 @@ Email: akshatsharmasde@gmail.com
 
 GitHub: github.com/akshat231
 
-
-
-Phone: +91-9418104975
+Twitter/x: @akshatismyname
 
 Feel free to explore my repositories or reach out for collaboration on exciting projects! 🚀
