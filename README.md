@@ -32,7 +32,7 @@ Currently, I'm working at **SearchUnify**, where I enhance enterprise tools with
 
 ## 🚀 Featured Projects
 
-### 🧠 [InnerLoop AI Journal](https://innerloop-ai.vercel.app)  
+### 🧠 [InnerLoop AI Journal](https://innerloop-ai-web-frontend.vercel.app/)  
 AI-powered journaling app with **mood prediction graphs**, built with Node.js, OpenAI API, and Prisma.  
 Deployed on **Vercel** for a sleek and fast experience.
 
