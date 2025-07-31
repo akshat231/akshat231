@@ -25,23 +25,22 @@ Currently, I'm working at **SearchUnify**, where I enhance enterprise tools with
 ### 🏢 Software Engineer — [SearchUnify](https://www.searchunify.com)  
 **Jan 2024 – Present**  
 - Boosted triage efficiency by **20%** by revamping the server alert UI  
-- Integrated Twilio + Webhooks to reduce response time by **25%**  
-- Enhanced chatbot performance for **100+ enterprise clients** using NLP  
+- Integrated Twilio + Webhooks to reduce response time by **25%**
+- Developed event-chain mechanism for agentic analytics to track and optimize user interactions 
+- Implemented ETL pipelines with guardrails for secure Node.js and SQL execution 
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 [InnerLoop AI Journal](https://innerloop-ai-web-frontend.vercel.app/)  
-AI-powered journaling app with **mood prediction graphs**, built with Node.js, OpenAI API, and Prisma.  
-Deployed on **Vercel** for a sleek and fast experience.
+AI journaling app with mood prediction graphs, built using Node.js, OpenAI, and Prisma. Deployed on Vercel for a fast, seamless experience.
 
 ### 🤖 [Reddit Automation Agent](https://agentic-ai-frontend-opal.vercel.app/)
 An **AI agent** that interacts with Reddit using natural language. Supports OAuth, intent parsing, subreddit posting, and commenting. Built with Node.js.
 
-### 🩻 COVID-19 X-ray Detection  
-Deep learning model with **85%+ accuracy** for detecting COVID-19 from X-rays.  
-Deployed on **HuggingFace Spaces**.
+### 🤖 Chatbot Knowledge Uploader & Search Agent  
+An AI-powered app for uploading and querying documents (PDF, DOCX, TXT, URLs) with semantic search and real-time Q&A. Features email auth and a rich dashboard for content management.
 
 ---
 
