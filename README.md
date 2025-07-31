@@ -39,7 +39,7 @@ AI journaling app with mood prediction graphs, built using Node.js, OpenAI, and 
 ### 🤖 [Reddit Automation Agent](https://agentic-ai-frontend-opal.vercel.app/)
 An **AI agent** that interacts with Reddit using natural language. Supports OAuth, intent parsing, subreddit posting, and commenting. Built with Node.js.
 
-### 🤖 Chatbot Knowledge Uploader & Search Agent  
+### 🤖 [Chatbot Knowledge Uploader & Search Agent](https://chatbot-frontend-three-gray.vercel.app/)  
 An AI-powered app for uploading and querying documents (PDF, DOCX, TXT, URLs) with semantic search and real-time Q&A. Features email auth and a rich dashboard for content management.
 
 ---
