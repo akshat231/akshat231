@@ -52,4 +52,4 @@ Upload and query documents (PDF, DOCX, TXT, URLs) with semantic search and real-
 
 - **GitHub:** [@akshat231](https://github.com/akshat231)
 - **Email:** [akshatsharmasde@gmail.com](mailto:akshatsharmasde@gmail.com)
-- **npm:** [api-metrics-system](https://www.npmjs.com/package/api-metrics-system)
+- **Twitter/X:** [@akshatismyname](https://twitter.com/akshatismyname)
